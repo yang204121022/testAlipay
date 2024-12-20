@@ -1,0 +1,13 @@
+{
+  "name": "irmyang/test",
+  "type": "library",
+  "license": "MIT",
+  "description": "Webman plugin irmyang/test",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Irmyang\\Test\\": "src"
+    }
+  }
+}
